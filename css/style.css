@@ -431,10 +431,7 @@ padding: 10px 0px 10px 0px;
             flex-wrap: wrap;
         }
         .phone{
-            flex-basis: auto;
-            margin-top: 50px;
-            order: 3;
-            width: 100%;
+           display: none;
         }
             .menu-item{
                 font-size: 32px;
